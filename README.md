@@ -78,3 +78,8 @@ q | wajib | untuk memberikan keyword
 
 
 Made by Laravel
+
+
+
+# Task 1
+task 1 ada pada file task1.cpp. Tidak dimasukan ke dalam folder apapun. Task 1 dibuat dengan menggunakan bahasa pemrogaman C++
